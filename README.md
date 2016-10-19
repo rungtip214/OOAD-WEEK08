@@ -19,18 +19,52 @@ women <|-- Admin
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBYSbJGrRLJq0Z8ACrEBT5Ki588AKeiImNAM8Laf2ga9-QbMm5Le2fnIapEBW1Yg5e5BYw7rBmKe7aAN000)
 
+@startuml
+
+
+A --> (Phuket) : Travel
+
+:The gang: ---> (Phuket) : Backpack Travel 
+
+@enduml 
+
+
 รูป3
 
 ![](http://www.plantuml.com/plantuml/img/9Smn3e0W34RXlQVefWnSmN0LbT-4f503xS3jrRY-V7bfsDxDgz2ISUqkHgOtc_AXPbevbuxJYZP2lKKd08vnutL09D3furNeVpjy1gA4bh_Z0m00)
+
+@startuml
+'default
+top to bottom direction
+employeee --> (sell)
+customer --> (buy)
+
+@enduml
+
 
 รูป4
 
 ![](http://www.plantuml.com/plantuml/img/9Smn3e0W343HlQVeA0DNC5obGj4c1KojWxSNu_f-yjFbP7ut1L2kZZxGP3ySYnXdbz6XCSQuuiBaisKEK4subrzFfGStKWq0QUgtUW40)
 
+@startuml
+
+left to right direction
+me --> (eat rice)
+friend --> (play ball)
+
+@enduml
+
+
 รูป5
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR9oT7IqKj3LjLFG2CylojRaid9oSe8A59UKfbG2HPAJar6L80IWIXnIyr90fW40)
 
+@startuml
+:AAA: --> (Work)
+:BBB: --> (study)
+:ccc: --> (Work)
+:ccc: --> (study)
+@enduml
 
 
 
