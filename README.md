@@ -1,25 +1,25 @@
 # OOAD-WEEK08
 #ส่งการบ้านเรื่อง Use case Diagram 5 ภาพ
 
-รูป1 การลงทะเบียน
+รูป1 
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAp2j9pKj9p2knKaWiLd1CoStCuz8eIatFB2v9BT84YMc45gTgSd4LbvIcfEQLADZKwEh2r86DqOG8GPKv04q36Wm0)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAJSopKaWiLd1CoStCuz9mJip9qGJnDKABKpMvkChpSrFp56ngT7LXAe91MZKLT7Lhx62A75BpKa260G00)
 
 รูป2
 
-![](http://www.plantuml.com/plantuml/img/VOun3i9030Jxl69BKl21Ar3k0Qc0BeqXbcB9vqHtfk3tSIHeqwr6EwiTcbFrJz6kUpQk6TSRBlU3zNzma8ZmXK7Rfl8cbzLw96IqGgfGUd4if974aESYbi8x4H-BD4YRxCiEiZKgTRBVpC0snwCT)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBYSbJGrRLJq0Z8ACrEBT5Ki588AKeiImNAM8Laf2ga9-QbMm5Le2fnIapEBW1Yg5e5BYw7rBmKe7aAN000)
 
 รูป3
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBAIKqhKIZ9LoZAJCyeKKZ9B4fDBidCp-CgBKujCbJGrRLJq0WjJarEB4vLCDG4YngXYXffSd4vfEQb04q30000)
+![](http://www.plantuml.com/plantuml/img/9Smn3e0W34RXlQVefWnSmN0LbT-4f503xS3jrRY-V7bfsDxDgz2ISUqkHgOtc_AXPbevbuxJYZP2lKKd08vnutL09D3furNeVpjy1gA4bh_Z0m00)
 
 รูป4
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuL9FIKrBBCqfuIh9Br0eoLT8oYyfoSzLICaiIaqkoSpFuoejJYqoLD3LjLFG22rEJKuiJbKmr0IB6g6A6cboSJcavgK0JGK0)
+![](http://www.plantuml.com/plantuml/img/9Smn3e0W343HlQVeA0DNC5obGj4c1KojWxSNu_f-yjFbP7ut1L2kZZxGP3ySYnXdbz6XCSQuuiBaisKEK4subrzFfGStKWq0QUgtUW40)
 
 รูป5
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR9AJ2x9BpAqKj3LjLFG22rEJKuiJZNKvCfBBIz8J4-5oXkXoXjfSZcavgK0zGC0)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR9oT7IqKj3LjLFG2CylojRaid9oSe8A59UKfbG2HPAJar6L80IWIXnIyr90fW40)
 
 
 
