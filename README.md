@@ -1,15 +1,21 @@
 # OOAD-WEEK08
 #ส่งการบ้านเรื่อง Use case Diagram 5 ภาพ
 
-Extension
+รูป1
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBoJSpCKt1CoStCir98B8Qmk3H2YrCLIZ9I5H8B2d8oanDBClFpD47I80bDBYuWMUIeO5EZgmlJ40moK1CY15Naa9gN0hG20000)
 
-Basic Use case
+รูป2
 
 ![](http://www.plantuml.com/plantuml/img/VOun3i9030Jxl69BKl21Ar3k0Qc0BeqXbcB9vqHtfk3tSIHeqwr6EwiTcbFrJz6kUpQk6TSRBlU3zNzma8ZmXK7Rfl8cbzLw96IqGgfGUd4if974aESYbi8x4H-BD4YRxCiEiZKgTRBVpC0snwCT)
 
+รูป3
 
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBAIKqhKIZ9LoZAJCyeKKZ9B4fDBidCp-CgBKujCbJGrRLJq0WjJarEB4vLCDG4YngXYXffSd4vfEQb04q30000)
+
+รูป4
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuL9FIKrBBCqfuIh9Br0eoLT8oYyfoSzLICaiIaqkoSpFuoejJYqoLD3LjLFG22rEJKuiJbKmr0IB6g6A6cboSJcavgK0JGK0)
 
 
 
