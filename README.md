@@ -1,4 +1,30 @@
 # OOAD-WEEK08
+#ส่งการบ้านเรื่อง Use case Diagram 5 ภาพ
+
+Extension
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBoJSpCKt1CoStCir98B8Qmk3H2YrCLIZ9I5H8B2d8oanDBClFpD47I80bDBYuWMUIeO5EZgmlJ40moK1CY15Naa9gN0hG20000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
