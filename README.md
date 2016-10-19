@@ -1,7 +1,7 @@
 # OOAD-WEEK08
 #ส่งการบ้านเรื่อง Use case Diagram 5 ภาพ
 
-รูป1
+รูป1 การลงทะเบียน
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAp2j9pKj9p2knKaWiLd1CoStCuz8eIatFB2v9BT84YMc45gTgSd4LbvIcfEQLADZKwEh2r86DqOG8GPKv04q36Wm0)
 
