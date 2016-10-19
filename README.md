@@ -3,7 +3,7 @@
 
 รูป1
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBoJSpCKt1CoStCir98B8Qmk3H2YrCLIZ9I5H8B2d8oanDBClFpD47I80bDBYuWMUIeO5EZgmlJ40moK1CY15Naa9gN0hG20000)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAp2j9pKj9p2knKaWiLd1CoStCuz8eIatFB2v9BT84YMc45gTgSd4LbvIcfEQLADZKwEh2r86DqOG8GPKv04q36Wm0)
 
 รูป2
 
