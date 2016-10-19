@@ -17,7 +17,9 @@
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuL9FIKrBBCqfuIh9Br0eoLT8oYyfoSzLICaiIaqkoSpFuoejJYqoLD3LjLFG22rEJKuiJbKmr0IB6g6A6cboSJcavgK0JGK0)
 
+รูป5
 
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR9AJ2x9BpAqKj3LjLFG22rEJKuiJZNKvCfBBIz8J4-5oXkXoXjfSZcavgK0zGC0)
 
 
 
