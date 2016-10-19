@@ -5,6 +5,16 @@
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAJSopKaWiLd1CoStCuz9mJip9qGJnDKABKpMvkChpSrFp56ngT7LXAe91MZKLT7Lhx62A75BpKa260G00)
 
+
+@startuml
+:man: as Admin
+(Call) as (Use)
+
+women <|-- Admin
+(Start) --|> (Use)
+
+@enduml
+
 รูป2
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBYSbJGrRLJq0Z8ACrEBT5Ki588AKeiImNAM8Laf2ga9-QbMm5Le2fnIapEBW1Yg5e5BYw7rBmKe7aAN000)
