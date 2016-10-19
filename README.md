@@ -5,6 +5,10 @@ Extension
 
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBoJSpCKt1CoStCir98B8Qmk3H2YrCLIZ9I5H8B2d8oanDBClFpD47I80bDBYuWMUIeO5EZgmlJ40moK1CY15Naa9gN0hG20000)
 
+Basic Use case
+
+![](http://www.plantuml.com/plantuml/img/VOun3i9030Jxl69BKl21Ar3k0Qc0BeqXbcB9vqHtfk3tSIHeqwr6EwiTcbFrJz6kUpQk6TSRBlU3zNzma8ZmXK7Rfl8cbzLw96IqGgfGUd4if974aESYbi8x4H-BD4YRxCiEiZKgTRBVpC0snwCT
+
 
 
 
